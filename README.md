@@ -13,3 +13,4 @@
 ### My tech stack
 
 ![Elixir](https://img.shields.io/badge/Elixir-1.14.x-brightgreen)
+![](https://img.shields.io/badge/JavaScript-React-sky)
